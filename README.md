@@ -8,5 +8,5 @@ The prison population in the US is [disproportionately affected by STI's][link1]
 We plan to enter this visualization to the [Beauty of Health Data][link2] competition.
 
 
-[link1] : http://aids.gov/federal-resources/policies/incarceration/
-[link2] : http://thebeautyofhealthdata.org/
+[link1]: http://aids.gov/federal-resources/policies/incarceration/
+[link2]: http://thebeautyofhealthdata.org/
