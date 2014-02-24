@@ -33,5 +33,5 @@ An interesting thread we also brought up was the notion that people in the US of
 
 
 ## VEEPS notes
-({{site.baseurl}}DrBobInterview1.png)
-({{site.baseurl}}DrBobInterview2.png)
+![InterviewQuestions]({{site.baseurl}}DrBobInterview1.png)
+![InterviewNotes]({{site.baseurl}}DrBobInterview2.png)
