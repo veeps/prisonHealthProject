@@ -30,3 +30,8 @@ An interesting thread we also brought up was the notion that people in the US of
 [link2]: http://thebeautyofhealthdata.org/
 
 ## References
+
+
+## VEEPS notes
+({{site.baseurl}}DrBobInterview1.png)
+({{site.baseurl}}DrBobInterview2.png)
