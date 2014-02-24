@@ -18,8 +18,6 @@ We aim to compare the types of words and phrases used in the comments section of
 ### Questions
 How best to visualize text and phrases?
 
-
-
 ## News Articles
 ***
 
