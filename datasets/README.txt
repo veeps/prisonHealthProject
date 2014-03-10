@@ -7,3 +7,7 @@ with the codebook, documentation, and questionnaire forms.
 The dataset is freely available at:
 
 http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34540/version/1
+
+
+The folder scefy8210 contains State Corrections Expenditures from 1982-2010.
+We're interested in State prison medical expenditures in the file 'sce8210t04'
