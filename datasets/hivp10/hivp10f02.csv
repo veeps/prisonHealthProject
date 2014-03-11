@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,
+filename:hivp10f02.csv,,,
+"Figure 2. Rate of HIV/AIDS cases per 10,000 inmates, by size of state prison custody population, 2001?2010",,,
+"report title: HIV in Prisons, 2001-10  NCJ 238877",,,
+"data source: Bureau of Justice Statistics, National Prisoner Statistics Program (NPS-1)",,,
+authors:  Laura M. Maruschak ,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,
+date of version: 9/7/12,,,
+,,,
+"Figure 2. Rate of HIV/AIDS cases per 10,000 inmates, by size of state prison custody population, 2001?2010",,,
+,"Small (up to 25,000) ","Medium (25,000-50,000)","Large (more than 50,000)"
+2001,173.659,144.402,274.782
+2002,170.572,140.678,264.158
+2003,156.515,137.37,265.492
+2004,147.508,131.13,251.961
+2005,137.869,130.476,251.208
+2006,137.998,124.663,244.795
+2007,132.652,118.603,232.455
+2008,127.519,122.541,229.879
+2009,124.442,123.498,216.737
+2010,130.276,110.269,210.651
+Note: Classification based on 2010 yearend custody population.,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics Program (NPS-1).",,,

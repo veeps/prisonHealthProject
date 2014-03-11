@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,
+filename:hivp10f03.csv,,,
+"Figure 3. Rate of AIDS-related deaths per 100,000 inmates, grouped by size of state prison custody population, 2001?2010 ",,,
+"report title: HIV in Prisons, 2001-10  NCJ 238877",,,
+"data source: Bureau of Justice Statistics, National Prisoner Statistics Program (NPS-1) and Deaths in Custody Reporting Program (DCRP).",,,
+authors:  Laura M. Maruschak ,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,
+date of version: 9/7/12,,,
+,,,
+"Figure 3. Rate of AIDS-related deaths per 100,000 inmates, grouped by size of state prison custody population, 2001?2010 ",,,
+,"Small (up to 25,000) ","Medium (25,000-50,000)","Large (more than 50,000)"
+2001,21.8763,24.0204,28.1093
+2002,17.6051,22.8559,26.572
+2003,18.4933,20.5736,22.8435
+2004,14.4548,14.2349,13.6225
+2005,15.3744,11.9924,12.2856
+2006,10.9127,11.6062,11.5469
+2007,10.2047,9.6102,7.72419
+2008,7.54311,4.41611,7.91435
+2009,9.7303,5.99101,5.7348
+2010,7.84077,4.34,4.32831
+Note: Classification based on 2010 yearend custody population.,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics Program (NPS-1) and Deaths in Custody Reporting Program (DCRP).",,,
