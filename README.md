@@ -1,6 +1,37 @@
 # The Prison Health Project
 ***
 
+## Meeting | Feb 23, 2014
+
+### Main motivation
+Societal prejudice against prisoners reinforces the resistance to legislative reform that would provide education and health resources to inmates. 
+
+In order to get a sense of this societal prejudice, our primary data sources are the comments sections of news articles about health and education reforms in prisons. These comments reflect the opinions of the readershop of online news media.
+
+### Comparing Reality and Fiction: 
+We want to juxtapose the nature of discourse about justice, forgiveness, and contrition in online platforms that report articles about real-world news versus articles about prison as depicted on television. 
+
+[Orange is the New Black](http://en.wikipedia.org/wiki/Orange_Is_the_New_Black) is a television show that is notable in that it depicts characters that are complex and breaks the mold of the archetypal prison system as depcited in most other movies and television shows.
+
+We aim to compare the types of words and phrases used in the comments section of (a) news articles about real-world legislation of (health/education-related) prison reform and (b) news articles about the show 'Orange is the New Black'.
+
+### Questions
+How best to visualize text and phrases?
+
+## News Articles
+***
+
+### Format for news articles
+Name of title (with link)
+Source: Name of source e.g. NPR
+Author: The authoer
+Short summary: Description of the article
+Comments: Comments that stood out to us
+
+***
+
+## Notes | Feb 18, 2014
+
 We want to tell the story of how the US prison system is affecting the health of disenfranchised people.
 
 The prison population in the US is [disproportionately affected by STI's][link1], including HIV/AIDS, compared to the general population. In this project, we use Bureau of Justice Statistics to visualize HIV prison rates vs. the general population and juxtapose HIV prison rates with incarceration rates by state.
@@ -26,12 +57,7 @@ For the parameters of this competition, we would use text data from news media w
 ## Politics of Comparison
 An interesting thread we also brought up was the notion that people in the US often compare the US to other developed countries in Europe, and how in fact the US is often times a model for these other countries with regard to certain issues such as civil rights, gender equality, etc.
 
+***
+
 [link1]: http://aids.gov/federal-resources/policies/incarceration/
 [link2]: http://thebeautyofhealthdata.org/
-
-## References
-
-
-## VEEPS notes
-![InterviewQuestions](DrBobInterview1.png)
-![InterviewNotes](DrBobInterview2.png)
