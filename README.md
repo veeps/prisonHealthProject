@@ -1,6 +1,70 @@
 # The Prison Health Project
 ***
 
+## Meeting | March 11, 2014
+
+** 4 days to go! **
+After much thought and ideation, we pivoted away from the HIV/AIDS prison story.
+
+### New idea
+Facebook-esque timeline of a specific person 'X'
+
+* top of the page *
+A profile with the following data:
+* name
+* sex
+* age
+* race
+* education
+* (last) employment
+* place of birth
+* date of birth
+* favorite book
+* favorite tv show
+
+* scroll down *
+* on the side-bar is year from most recent >> less recent *
+
+* the page is separated into two sections *
+Left section provides health risk stats of individual with matching demographics as profile of person 'X' in prison. The right section lists those same health risk stats at the population level.
+
+* keep scrolling down *
+A big mark on the timeline says 'Day Incarcerated'  
+
+#### Demographics
+Name: Jeremy Smith
+Gender: Male
+Age: 66
+Race: Black
+Education: Highschool
+Employment:
+Place of Birth: Bronx, NY
+Favorite Book:
+Favorite TV show:
+
+#### Statistics
+
+# Inmate health risk
+* HIV
+* CVD
+* Physical Harm
+* Mental Health
+* Cancer Risk
+* Diabetes
+* Alcohol Misuse
+
+
+# Likelihood of going to State or Federal prison for the first time
+* for black male, age 20 *: 7.9%  
+* for while male, age 20 *: 0.4%
+* for hispanic male, age 20 *: 1.5%
+
+* for black female, age 20 *: 0.3%  
+* for while female, age 20 *: 0.0%
+* for hispanic female, age 20 *: 0.1%
+
+***
+
 ## Meeting | Feb 23, 2014
 
 ### Main motivation
