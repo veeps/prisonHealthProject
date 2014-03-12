@@ -1,0 +1,63 @@
+﻿ Populations,2006-2010
+ Total,17.2    SE 0.478    CI 16.2  / 18.1
+ Sex,   
+   Male,13.0    SE 0.498    CI 12.0  / 13.9
+   Female,21.4    SE 0.679    CI 20.1  / 22.8
+ Race/Ethnicity,   
+   American Indian or Alaska Native only,---   
+   Asian only,13.1    SE 1.789    CI 9.6  / 16.7
+   Native Hawaiian or Other Pacific Islander only,---   
+   Hispanic or Latino,18.9    SE 0.863    CI 17.2  / 20.6
+   Not Hispanic or Latino,16.8    SE 0.524    CI 15.8  / 17.8
+     Black or African American only not Hispanic or Latino,32.8    SE 0.993    CI 30.8  / 34.8
+     White only not Hispanic or Latino,13.6    SE 0.533    CI 12.5  / 14.6
+ Age group,   
+   15-17,6.2    SE 0.616    CI 5.0  / 7.4
+   18-24,21.7    SE 1.138    CI 19.5  / 24.0
+   25-44,17.2    SE 0.551    CI 16.1  / 18.3
+ Educational attainment (25 years and over),   
+   < High school,19.6    SE 1.208    CI 17.2  / 22.0
+   High school,16.2    SE 0.921    CI 14.4  / 18.0
+   Some college,18.2    SE 1.128    CI 15.9  / 20.4
+   Associates degree,18.4    SE 1.552    CI 15.3  / 21.5
+   4-year college degree,15.9    SE 1.002    CI 13.9  / 17.9
+   Advanced degree,15.6    SE 1.756    CI 12.1  / 19.1
+ Family income (percent Federal Poverty Level),   
+   <100,24.8    SE 1.249    CI 22.3  / 27.2
+   100-199,19.9    SE 0.899    CI 18.1  / 21.7
+   200-399,16.2    SE 0.772    CI 14.7  / 17.7
+   400-499,15.0    SE 1.084    CI 12.8  / 17.1
+   500+,17.4    SE 1.398    CI 14.6  / 20.2
+ Family type,   
+   Single,14.7    SE 0.609    CI 13.5  / 15.9
+   Single parent with children,31.4    SE 1.525    CI 28.4  / 34.4
+   Married couple or partners,17.3    SE 0.744    CI 15.8  / 18.7
+   Two parent family with children,16.4    SE 0.956    CI 14.5  / 18.3
+ Country of birth,   
+   US,17.1    SE 0.546    CI 16.0  / 18.1
+   Outside US,17.8    SE 0.889    CI 16.0  / 19.6
+ Disability status,   
+   People with activity limitations,19.8    SE 1.246    CI 17.3  / 22.2
+   People without activity limitations,16.9    SE 0.490    CI 15.9  / 17.9
+ Geographic location,   
+   Metropolitan,17.9    SE 0.551    CI 16.8  / 19.0
+   Non-metropolitan,14.4    SE 1.038    CI 12.3  / 16.5
+ Health insurance status,   
+   Insured,17.0    SE 0.579    CI 15.8  / 18.1
+     Private,13.7    SE 0.542    CI 12.6  / 14.8
+     Public,30.5    SE 1.138    CI 28.2  / 32.7
+   Uninsured,17.9    SE 0.776    CI 16.3  / 19.4
+ Sexual orientation,   
+   Sexual orientation,   
+   Heterosexual or straight,16.7    SE 0.488    CI 15.7  / 17.6
+   Homosexual or gay/lesbian,31.6    SE 3.117    CI 25.4  / 37.8
+   Bisexual,29.9    SE 2.741    CI 24.5  / 35.4
+ Gender identity,   
+   Gender identity,DNC   
+ Marital status,   
+   Married,15.0    SE 0.737    CI 13.5  / 16.4
+   Cohabiting partner,24.3    SE 1.406    CI 21.5  / 27.1
+   Divorced or separated,23.6    SE 1.574    CI 20.5  / 26.7
+   Widowed,DSU   
+   Never married,16.2    SE 0.622    CI 15.0  / 17.4
+
