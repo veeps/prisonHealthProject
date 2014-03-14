@@ -1,0 +1,26 @@
+Bureau of Justice Statistics,,,,,,,
+filename: mhppjit14.csv,,,,,,,
+Table 14. Mental health treatment received by inmates who had a mental health problem,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 09-06-06,,,,,,,
+
+Table 14. Mental health treatment received by inmates who had a mental health problem,,,,,,,
+,,Percent of inmates who had a mental problem in —,,,,,
+,Type of mental health treatment ,State prison,,Federal prison,,Local Jail ,
+Ever received mental health treatment,,49.3,%,35.3,%,42.7,%
+,Had overnight hospital stay ,20,,9.5,,18,
+,Used prescribed medications,39.5,,28,,32.7,
+,Had professional mental health therapy,35.4,,25.6,,31.1,
+Received treatment during year before arrest,,22.3,%,14.9,%,22.6,%
+,Had overnight hospital stay ,5.8,,3.2,,6.6,
+,Used prescribed medications,15.8,,10.1,,16.9,
+,On prescribed medication for mental problem at time of arrest,11.3,,7.3,,12.3,
+,Had professional mental health therapy,11.5,,8,,12.3,
+Received treatment after admission ,,33.8,%,24,%,17.5,%
+,Had overnight hospital stay ,5.4,,2.7,,2.2,
+,Used prescribed medications,26.8,,19.5,,14.8,
+,Had professional mental health therapy,22.6,,15.1,,7.3,
+Note: Excludes other mental health treatment.,,,,,,,

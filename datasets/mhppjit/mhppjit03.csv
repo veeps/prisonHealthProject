@@ -1,0 +1,29 @@
+Bureau of Justice Statistics,,,,,,,
+filename: mhppjit03.csv,,,,,,,
+"Table 3. Prison and jail inmates who had a mental health problem, by selected characteristics",,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 09-06-06,,,,,,,
+
+"Table 3. Prison and jail inmates who had a mental health problem, by selected characteristics",,,,,,,
+,,Percent of inmates in —,,,,,
+Characteristic,,State prison,,Federal prison,,Local jail,
+,All inmates,56.2,%,44.8,%,64.2,%
+Gender,,,,,,,
+,Male,55,%,43.6,%,62.8,%
+,Female,73.1,,61.2,,75.4,
+Race,,,,,,,
+,White/a,62.2,%,49.6,%,71.2,%
+,Black/a,54.7,,45.9,,63.4,
+,Hispanic,46.3,,36.8,,50.7,
+,"Other/a,b",61.9,,50.3,,69.5,
+Age,,,,,,,
+,24 or younger,62.6,%,57.8,%,70.3,%
+,25-34,57.9,,48.2,,64.8,
+,35-44,55.9,,40.1,,62,
+,45-54,51.3,,41.6,,52.5,
+,55 or older,39.6,,36.1,,52.4,
+a/Excludes persons of Hispanic origin.,,,,,,,
+"b/Includes American Indians, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, and inmates who specified more than one race.",,,,,,,

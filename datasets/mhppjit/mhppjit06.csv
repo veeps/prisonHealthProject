@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename: mhppjit06.csv,,,,,,,,,,,,,
+"Table 6. Substance use among prison inmates and convicted jail inmates, by mental health status",,,,,,,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,
+date of version: 09-06-06,,,,,,,,,,,,,
+
+"Table 6. Substance use among prison inmates and convicted jail inmates, by mental health status",,,,,,,,,,,,,
+,,Percent of inmates in —,,,,,,,,,,,
+,,State prison,,,,Federal prison,,,,Local jail,,,
+Type of substance,,With mental problem,,Without,,With mental problem,,Without,,With mental problem,,Without,
+Alcohol or drugs,,,,,,,,,,,,,
+,Regular use/a,87.1,%,77.2,%,82.3,%,75.4,%,89.9,%,78.7,%
+,In month before offense,80.3,,70.4,,75.8,,68.1,,81.6,,69.6,
+,At time of offense,53.2,,42.5,,41.1,,30.6,,53.8,,42.8,
+Drugs,,,,,,,,,,,,,
+,Regular use/a,75.5,%,61.2,%,71,%,59.2,%,78.1,%,57.5,%
+,In month before offense,62.8,,49.1,,57.1,,45.2,,62.1,,41.7,
+,At time of offense,37.5,,25.8,,31.1,,23,,34,,19.8,
+Alcohol ,,,,,,,,,,,,,
+,Regular use/a,67.9,%,58.3,%,66,%,58.2,%,72.6,%,61.8,%
+,In month before offense,61.7,,52.5,,59.5,,53.6,,80.7,,74.1,
+,At time of offense,34,,27.5,,21.7,,15.1,,35,,30.4,
+,Binge drinking/b,43.5,,29.5,,37.8,,25.7,,48.2,,29.9,
+a/Regular alcohol use is defined as daily or almost daily or more than once a week for more than a month. Regular drug use is defined as once a week or more for at least one month.,,,,,,,,,,,,,
+"b/Binge drinking is defined as having consumed a fifth of liquor in a single day, or the equivalent of 20 drinks, 3 bottles of wine, or 3 six-packs of beer.",,,,,,,,,,,,,

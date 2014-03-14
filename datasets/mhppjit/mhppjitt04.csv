@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,,
+filename: mhppjitt04.csv,,,,,
+"Text table 4. Percent of State prisoners with a violent criminal record, by mental health status ",,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version: 09-06-06,,,,,
+
+"Text table 4: Percent of State prisoners with a violent criminal record, by mental health status ",,,,,
+,,Percent of State prisoners with a violent criminal record  ,,,
+Violent criminal record,,With mental problem,,Without,
+,Any violent offense,61,%,56,%
+"Current violent offense, no prior",,13,,17,
+Violent recidivist,,47,,39,
+Note: Details may not add to total due to rounding. ,,,,,

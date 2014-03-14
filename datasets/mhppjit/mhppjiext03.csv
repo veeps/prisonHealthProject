@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,,,,,
+filename: mhppjiext03.csv,,,,,,,
+Exhibit table 3. Percent of U.S. population age 18 or older with symptoms of a mental disorder,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 09-06-06,,,,,,,
+
+Exhibit table 3. Percent of U.S. population age 18 or older with symptoms of a mental disorder,,,,,,,
+,,Percent of U.S. population age 18 or older with symptoms of a mental disorder ,,,,,
+,,Total,,Male ,,Female,
+Any symptom,,10.6,%,8.7,%,12.4,%
+,Major depression/a,7.9,,5.5,,10.1,
+,Manic disorder/a,1.8,,1.6,,2,
+,Psychotic disorder/b,3.1,,3.2,,3.1,
+Note: See Methodology for sources on mental health disorders in the general population.
+"a/In the past 12 months, not excluding symptoms due to bereavement, substance use, or a medical condition."
+b/Based on life-time occurrence.
+"Source: National Institute on Alcohol Abuse and Alcoholism, National Epidemiologic Survey on Alcohol and Related Conditions, 2001-2002."

@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename: mhppjit11.csv,,,,,,,,,,,,,
+"Table 11. Number of prior probation or incarceration sentences among prison and jail inmates, by mental health status ",,,,,,,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,
+date of version: 09-06-06,,,,,,,,,,,,,
+
+"Table 11. Number of prior probation or incarceration sentences among prison and jail inmates, by mental health status ",,,,,,,,,,,,,
+,,Percent of inmates in —,,,,,,,,,,,
+,,State prison,,,,Federal prison,,,,Local jail,,,
+Number of prior sentences,,With mental problem,,Without,,With mental problem,,Without,,With mental problem,,Without,
+,0,22.1,%,28.5,%,34.1,%,38.3,%,24.5,%,30.6,%
+,1,15.3,,16.1,,14.9,,16.5,,16.8,,18.9,
+,2,15.5,,16.8,,15.6,,14.9,,16.7,,17.2,
+, 3-5 ,26.3,,24,,21.3,,20.1,,22.8,,20.3
+, 6-10,13.9,,10.6,,10,,7.1,,12.4,,8.6
+,11 or more,6.9,,4,,4,,3.1,,6.7,,4.4
+Note: Excludes inmates for whom prior probation or incarceration sentences were unknown.,,,,,,,,,,,,

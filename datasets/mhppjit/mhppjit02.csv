@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,,,,,,
+filename: mhppjit02.csv,,,,,,,,,,
+Table 2. Prevalence of mental health problems among prison and jail inmates,,,,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,
+date of version: 09-06-06,,,,,,,,,,
+
+Table 2. Prevalence of mental health problems among prison and jail inmates ,,,,,,,,,,
+,,State prison inmates ,,,Federal prison inmates ,,,Local jail inmates,,
+Mental health problem,,Number,Percent,,Number,Percent,,Number ,Percent,
+Any mental health problem*,,"705,600",56.2,%,"70,200",44.8,%,"479,900",64.2,%
+,History and symptoms  ,"219,700",17.5,,"13,900",8.9,,"127,800",17.1,
+,History only ,"85,400",6.8,,"7,500",4.8,,"26,200",3.5,
+,Symptoms only,"396,700",31.6,,"48,100",30.7,,"322,900",43.2,
+No mental health problem,,"549,900",43.8,%,"86,500",55.2,%,"267,600",35.8,%
+"Note: Number of inmates was estimated based on the June 30, 2005 custody population in State prisons (1,255,514), Federal prisons (156,643, excluding 19,311 inmates held in private facilities), and local jails (747,529).",,,,,,,,,,
+"*Details do not add to totals due to rounding. Includes State prisoners, Federal prisoners, and local jail inmates who reported an impairment due to a mental problem.",,,,,,,,,,

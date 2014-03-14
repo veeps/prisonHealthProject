@@ -3,13 +3,13 @@
 
 ## Meeting | March 11, 2014
 
-** 4 days to go! **
+**4 days to go!**
 After much thought and ideation, we pivoted away from the HIV/AIDS prison story.
 
 ### New idea
 Facebook-esque timeline of a specific person 'X'
 
-* top of the page *
+*top of the page*
 A profile with the following data:
 * name
 * sex
@@ -20,15 +20,15 @@ A profile with the following data:
 * place of birth
 * date of birth
 * favorite book
-* favorite tv show
+* favorite tv show  
 
-* scroll down *
-* on the side-bar is year from most recent >> less recent *
+*scroll down*
+*on the side-bar is year from most recent >> less recent*
 
-* the page is separated into two sections *
+*the page is separated into two sections*
 Left section provides health risk stats of individual with matching demographics as profile of person 'X' in prison. The right section lists those same health risk stats at the population level.
 
-* keep scrolling down *
+*keep scrolling down*
 A big mark on the timeline says 'Day Incarcerated'  
 
 #### Demographics
@@ -55,13 +55,36 @@ Favorite TV show:
 
 
 # Likelihood of going to State or Federal prison for the first time
-* for black male, age 20 *: 7.9%  
-* for while male, age 20 *: 0.4%
-* for hispanic male, age 20 *: 1.5%
+*for black male, age 20*: 7.9%  
+*for while male, age 20*: 0.4%
+*for hispanic male, age 20*: 1.5%
 
-* for black female, age 20 *: 0.3%  
-* for while female, age 20 *: 0.0%
-* for hispanic female, age 20 *: 0.1%
+*for black female, age 20*: 0.3%  
+*for while female, age 20*: 0.0%
+*for hispanic female, age 20*: 0.1%
+
+# Mental Health Stats
+
+Characteristic  
+					State prison 	Federal prison   Local jail  
+All inmates 			56.2% 			44.8% 			64.2%  
+
+Gender  
+Male 					55.0% 			43.6% 			62.8%  
+Female 					73.1 			61.2 			75.4  
+
+Race  
+Whitea 					62.2%		 	49.6% 			71.2%  
+Blacka 					54.7 			45.9 			63.4  
+Hispanic 				46.3 			36.8 			50.7  
+Othera,b 				61.9 			50.3 			69.5  
+
+Age  
+24 or younger 			62.6% 			57.8% 			70.3%  
+25-34 					57.9 			48.2 			64.8  
+35-44 					55.9 			40.1 			62.0  
+45-54 					51.3 			41.6 			52.5  
+55 or older 			39.6 			36.1 			52.4  
 
 ***
 

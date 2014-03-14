@@ -1,0 +1,21 @@
+Bureau of Justice Statistics,,,,,
+filename: mhppjit13.csv,,,,,
+Table 13. Mean time expected to be served by convicted local jail inmates sentenced to jail,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version: 09-06-06,,,,,
+
+Table 13. Mean time expected to be served by convicted local jail inmates sentenced to jail,,,,,
+,,Percent of convicted local jail inmates,,,
+Mean time expected to be served,,With mental problem ,,Without,
+Less than 3 months,,27.4,%,26.8,%
+3 to 6 months,,27.9,,27.3,
+7 to 12 months,,24,,22.4,
+13 to 24 months,,9.7,,8.7,
+25 to 36 months,,3.7,,3.4
+37 to 60 months,,3.2,,5
+More than 5 years,,4,,6.4
+,Number of inmates,"115,290",,"72,356"
+Note: Excludes inmates for whom admission date or expected release date were unknown.,,,,

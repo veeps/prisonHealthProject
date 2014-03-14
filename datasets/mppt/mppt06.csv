@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,,
+filename: mppt06.csv,,,,,,,
+"Table 6. Prison inmates who reported an injury since admission by gender and age, 2004",,,,,,,
+report title: Medical Problems of Prisoners   NCJ 221740,,,,,,,
+data source:  2004 Survey of State and Federal Correctional Facilities,,,,,,,
+author:  Laura M. Maruschak,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 4/15/08,,,,,,,
+
+"Table 6. Prison inmates who reported an injury since admission by gender and age, 2004",,,,,,,
+,,Percent of inmates who reported an injury since admission ,,,,,
+Characteristics,,Total ,,In an accident,,In a fight ,
+State inmates,,,,,,,
+,Total,32.6,%,22.3,%,15.9,%
+Gender,,,,,,,
+,Male,33.2,%,22.6,%,16.5,%
+,Female,24.7,,18.9,,8.5,
+Age,,,,,,,
+,24 or younger,31.9,%,21.4,%,16.8,%
+,25-34,34.7,,23.8,,16.7,
+,35-44,32.5,,22.2,,16.1,
+,45 or older,29.7,,21,,13.4,
+Federal inmates,,,,,,,
+,Total,28.2,%,22.9,%,8.3,%
+Gender,,,,,,,
+,Male,28.3,%,22.8,%,8.7,%
+,Female,26.9,,24.9,,3.6,
+Age,,,,,,,
+,24 or younger,28.9,%,24.4,%,7.7,%
+,25-34,30.7,,25,,8.9,
+,35-44,27.4,,22,,8.7,
+,45 or older,24.8,,20.1,,7.2,

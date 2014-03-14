@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+filename: mhppjit04.csv,,,,,,,,,,,,,,
+"Table 4. Homelessness, employment before arrest, and family background of prison and jail inmates, by mental health status",,,,,,,,,,,,,,
+report title: Mental Health Problems of Prison and Jail Inmates  NCJ 213600,,,,,,,,,,,,,,
+"data source: Survey of Inmates in State and Federal Correctional Facilities, 2004; Survey of Inmates in Local Jails, 2002",,,,,,,,,,,,,,
+authors: Doris J. James and Lauren E. Glaze,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,,
+date of version: 09-06-06,,,,,,,,,,,,,,
+
+"Table 4. Homelessness, employment before arrest, and family background of prison and jail inmates, by mental health status",,,,,,,,,,,,,,
+,,,Percent of inmates in —,,,,,,,,,,,
+,,,State prison,,,,Federal prison,,,,Local jail,,,
+Characteristic,,,With mental problem,,Without,,With mental problem,,Without,,With mental problem,,Without,
+Homelessness in past year,,,13.2,%,6.3,%,6.6,%,2.6,%,17.2,%,8.8,%
+Employed in month before arrest/a,,,70.1,%,75.6,%,67.7,%,76.2,%,68.7,%,75.9,%
+Ever physically or sexually abused before admission,,,27,%,10.5,%,17,%,6.4,%,24.2,%,7.6,%
+,Physically abused,,22.4,,8.3,,13.7,,5.4,,20.4,,5.7,
+,Sexually abused,,12.5,,3.8,,7.3,,1.7,,10.2,,3.2,
+While growing up —,,,,,,,,,,,,,,
+,Ever received public assistance/b,,42.5,%,30.6,%,33.3,%,24.9,%,42.6,%,30.3,%
+,"Ever lived in foster home, agency or institution",,18.5,,9.5,,9.8,,6.3,,14.5,,6,
+,Lived most of the time with —,,,,,,,,,,,,,
+,,Both parents,41.9,%,47.7,%,45.4,%,50.5,%,40.5,%,49.1,%
+,,One parent,43.8,,40.8,,39.8,,38.8,,45.4,,40.4,
+,,Someone else,11.6,,10.2,,13.5,,10.3,,12,,9.4,
+,Parents or guardians ever abused —,,39.3,%,25.1,%,33.3,%,20,%,37.3,%,18.7,%
+,,Alcohol,23.6,,16.9,,21.7,,15.4,,23.2,,14.1,
+,,Drugs,3.1,,1.9,,2.2,,1.4,,2.7,,1.1,
+,,Both alcohol and drugs,12.7,,6.2,,9.4,,3.2,,11.5,,3.4,
+,,Neither,60.7,,74.9,,66.7,,80,,62.7,,81.3,
+Family member ever incarcerated —,,,51.7,%,41.3,%,44.6,%,38.9,%,52.1,%,36.2,%
+,Mother,,7.2,,4,,5,,3.2,,9.4,,3.4,
+,Father,,20.1,,13.4,,15.3,,9.9,,22.1,,12.6
+,Brother,,35.5,,29.4,,29.4,,27,,34.8,,25.8
+,Sister,,7,,5.1,,5.5,,4.2,,11.3,,5.1
+,Child,,2.7,,2.3,,3.4,,2.8,,4,,2.6
+,Spouse,,1.7,,0.9,,2.6,,1.8,,2.4,,0.9
+a\The reference time for jail inmates was in the month before admission.,,,,,,,,,,,,,
+"b\Public assistance includes public housing, AFDC, food stamps, Medicaid, WIC, and other welfare programs.",,,,,,,,,,,,,
