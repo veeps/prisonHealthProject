@@ -1,0 +1,22 @@
+To: hello@thebeautyofhealthdata.org
+Re: Exhibition Entry
+
+Creators: Vivian Peng, Niels Bantilan
+
+Mental health and the criminal justice system are deeply intertwined. The way that society at large dehumanizes inmates is reflected by the prison system's failure to address mental health. This is further complicated by the fact that mental health is a controversial topic even in the general public. In this visualization, we aim to raise awareness about the complexity of this issue. 
+
+The factors that drive criminal behavior do not simply relate to individual agency. A complex machinery of socioeconomic disparity, incarceration, and dehumanization drives a vicious cycle of mental illness that we can only barely imagine with these statistics.
+
+It is worrying that more than half of inmates in 2005 had a mental health problem. More worrying is the fact that 73% of female state inmates, compared to 55% of males, had a mental health problem. 
+Furthermore, higher prevalence of drug use, parent's abuse of alcohol and other drugs, and homelessness among inmates with mental health problems paints a broader picture beyond the criminal act.
+
+We do not claim to show causality through our visualization. We simply suggest that the prison population is not homogenous and that incarceration is a result of factors that transcend generational and institutional boundaries.
+
+Ultimately, we believe that a mature dialogue about deservedness, blame, forgiveness, justice, and personal evolution is necessary for us to break away from this simplistic sentiment: 'once a criminal, always a criminal'.
+
+References:
+
+James, D., Glaze, L. (2002). Mental Health problems of prison and jail inmates, Bureau of Justice Statistics Special Report
+
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=789
+http://www.bjs.gov/content/pub/pdf/mhppji.pdf
